@@ -14,3 +14,5 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
 //first
+
+WebUI.openBrowser('https://www.google.co.in/')
