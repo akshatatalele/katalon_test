@@ -2,4 +2,5 @@
 /Libs/
 /.settings/
 /.classpath
-.svn//Object Repository
+.svn/
+/Object Repository
